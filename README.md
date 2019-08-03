@@ -2,6 +2,7 @@
 
 Features 🎯🥇🏆
 [ ] User can select Rock, Paper, or Scissors
+
 [ ] User can see image of their selection
 [ ] User can see text of their selection
 [ ] User can see image of computer's selection
